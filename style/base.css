@@ -1,0 +1,32 @@
+@charset "utf-8";
+/*CSS reset*/
+body,div,dl,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td{margin:0;padding:0;}
+table{border-collapse:collapse;border-spacing:0;}
+fieldset,img{border:0}
+address,caption,cite,code,dfn,em,strong,th,var｛font-style:normal;font-weight:normal;}
+ul{list-style:none;}
+caption,th{text-align:left;}
+h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}
+abbr,acronym{border:0;}
+
+/*文字排版*/
+.f12{font-size:12px}
+.f13{font-size:13px}
+.f14{font-size:14px}
+.f16{font-size:16px}
+.f20{font-size:20px}
+.fb{font-weight:bold}
+.fn{font-weight:normal}
+
+/*定位*/
+.tc{text-align:center;}
+.fl{float:left;display:inline}
+.fr{float:right;display:inline}
+.db{display:block}
+.vm{vertical-align:middle}
+.pr{position:relative}
+.pa{position:absolute}
+.abs-right{position:absolute;right:0}
+.zoom{zoom:1}
+.hidden{visibility:hidden}
+.none{display:none}
